@@ -1,0 +1,10 @@
+C:\Users\egede\source\repos\Quiz Show\Quiz Show\bin\Debug\Quiz Show.exe.config
+C:\Users\egede\source\repos\Quiz Show\Quiz Show\bin\Debug\Quiz Show.exe
+C:\Users\egede\source\repos\Quiz Show\Quiz Show\bin\Debug\Quiz Show.pdb
+C:\Users\egede\source\repos\Quiz Show\Quiz Show\obj\Debug\Quiz Show.csproj.AssemblyReference.cache
+C:\Users\egede\source\repos\Quiz Show\Quiz Show\obj\Debug\Quiz_Show.Form1.resources
+C:\Users\egede\source\repos\Quiz Show\Quiz Show\obj\Debug\Quiz_Show.Properties.Resources.resources
+C:\Users\egede\source\repos\Quiz Show\Quiz Show\obj\Debug\Quiz Show.csproj.GenerateResource.cache
+C:\Users\egede\source\repos\Quiz Show\Quiz Show\obj\Debug\Quiz Show.csproj.CoreCompileInputs.cache
+C:\Users\egede\source\repos\Quiz Show\Quiz Show\obj\Debug\Quiz Show.exe
+C:\Users\egede\source\repos\Quiz Show\Quiz Show\obj\Debug\Quiz Show.pdb
